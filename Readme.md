@@ -1,0 +1,1 @@
+OLá esse codigo nos ajuda a resolver um problema de distribuição normal, utilizando o norm da biblioteca scipy.stats
